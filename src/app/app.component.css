@@ -1,0 +1,15 @@
+.container {
+  display: block;
+  background-color: aliceblue;
+  border-radius: 15px;
+  min-height: calc(100vh - 150px);
+  margin-left: 10%;
+  margin-top: 15px;
+  width: 80%;
+  text-align: center;
+  line-height: 15px;
+
+  -webkit-box-shadow: 6px 6px 5px 0px rgba(130, 36, 168, 1);
+  -moz-box-shadow: 6px 6px 5px 0px rgba(130, 36, 168, 1);
+  box-shadow: 6px 6px 5px 0px rgba(130, 36, 168, 1);
+}

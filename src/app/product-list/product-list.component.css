@@ -1,0 +1,8 @@
+.contenido {
+  background-color: aqua;
+  display: block;
+}
+
+.contenido .product {
+  display: inline-block;
+}
